@@ -1,10 +1,14 @@
-.App {
-  text-align: center;
+.main-bg {
+  height: 700px;
+  /* background-color: black; */
+  background-image: url("./nike2.webp");
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App {
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
